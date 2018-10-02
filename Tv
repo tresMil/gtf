@@ -1,0 +1,48 @@
+
+#EXTM3U
+EXTINF:-1,DIRECTV SPORT
+https://s10.limpi.tv/live/40391.m3u8?token=G2E4WHvZH7SyjKpcS_yeZA&expires=1538434559&ip=66.160.178.84
+
+#EXTINF:-1,DIRECTV SPORT 2
+https://s10.limpi.tv/live/40922.m3u8?token=CuxkigcIYTUxXgopjdxBGQ&expires=1538434625&ip=66.160.178.84
+
+#EXTINF:-1,DIRECTV SPORT PLUS
+https://s10.limpi.tv/live/41555.m3u8?token=Bi7Cs7vShz8Cn84X8wBguA&expires=1538434685&ip=66.160.178.84
+
+#EXTINF:-1,BEIN Ñ
+https://s10.limpi.tv/live/41037.m3u8?token=YJb4Zj8UMJhejcDo_QaufA&expires=1538434744&ip=66.160.178.84
+
+
+#EXTINF:-1,BEIN 
+https://s10.limpi.tv/live/41548.m3u8?token=KYw-95jNzzlXiqcMulPirA&expires=1538434828&ip=66.160.178.84
+
+#EXTINF:-1,ESPN
+https://s10.limpi.tv/live/41064.m3u8?token=cd1TCsSjAUMrxvvnKmTswA&expires=1538434884&ip=66.160.178.84
+
+#EXTINF:-1,ESPN2
+https://s10.limpi.tv/live/41066.m3u8?token=TFOTejbo2Sx_2e0bYDKB7w&expires=1538434975&ip=66.160.178.84
+
+
+#EXTINF:-1,ESPN3
+https://s10.limpi.tv/live/40454.m3u8?token=YyGuvQ9V0CJTE8p96QliZg&expires=1538435042&ip=66.160.178.84
+
+#EXTINF:-1,ESPN MX
+https://s10.limpi.tv/live/40452.m3u8?token=pU7COcCfbGWDWit0o5IxAQ&expires=1538435100&ip=66.160.178.84
+
+#EXTINF:-1,PLAY BOY
+https://s10.limpi.tv/live/41074.m3u8?token=hRW6Bid8ogyvYBIrJLrJVQ&expires=1538435187&ip=66.160.178.84
+
+#EXTINF:-1,CANAL 5 MX
+https://s10.limpi.tv/live/40152.m3u8?token=LpeGU_X5XF37I9JgSk5uzg&expires=1538433792&ip=66.160.178.84
+
+#EXTINF:-1, TELEMUNDO
+https://s10.limpi.tv/live/40090.m3u8?token=MDk8ecThP8ncSOdVrOCxUQ&expires=1538434102&ip=66.160.178.84
+
+#EXTINF:-1, COMEDY CENTRAL
+https://s10.limpi.tv/live/40649.m3u8?token=GMuUJt8hBesX4r6VschsCw&expires=1538434293&ip=66.160.178.84
+
+#EXTINF:-1, NAT GEO WILD
+https://s10.limpi.tv/live/40655.m3u8?token=SShOEb0DFyAMYYfI08Fm7Q&expires=1538434398&ip=66.160.178.84
+
+#EXTINF:-1, DISTRITO COMEDIA
+https://s10.limpi.tv/live/41334.m3u8?token=ahu3yytjranphd4KuVwnQg&expires=1538434482&ip=66.160.178.84
